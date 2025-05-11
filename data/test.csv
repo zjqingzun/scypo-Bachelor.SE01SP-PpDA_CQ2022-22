@@ -1,0 +1,331 @@
+Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Max Power,Max Torque,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity
+Ford,Endeavour Trend 2.2 4x2 AT,2350000,2016,75000,Diesel,Automatic,Mohali,White,Second,Individual,2198 cc,158 bhp @ 3200 rpm,385 Nm @ 1600 rpm,RWD,4892.0,1860.0,1837.0,7.0,80.0
+Toyota,Urban Cruiser Premium Grade AT,1050000,2021,1910,Petrol,Automatic,Varanasi,White,First,Individual,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD,3995.0,1790.0,1640.0,5.0,48.0
+Maruti Suzuki,Alto 800 Lxi,210000,2014,42505,Petrol,Manual,Purnea,Red,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+Honda,City SV Diesel,550000,2014,85000,Diesel,Manual,Jaipur,Silver,First,Individual,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Hyundai,Eon Era +,290000,2018,70000,Petrol,Manual,Kheda,White,First,Individual,814 cc,55 bhp @ 5500 rpm,75 Nm @ 4000 rpm,FWD,3495.0,1550.0,1500.0,5.0,32.0
+Audi,A4 30 TFSI Premium Plus,4250000,2020,17000,Petrol,Automatic,Pune,White,First,Individual,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD,4726.0,1842.0,1427.0,5.0,54.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,595000,2014,65123,Diesel,Manual,Patna,Black,First,Individual,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD,4370.0,1700.0,1475.0,5.0,43.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],1390000,2017,56000,Petrol,Automatic,Navi Mumbai,White,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4670.0,1814.0,1476.0,5.0,50.0
+Hyundai,i10 Magna 1.2 Kappa2,390000,2015,49123,Petrol,Manual,Patna,White,First,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585.0,1595.0,1550.0,5.0,35.0
+Mahindra,Scorpio S11 4WD 7 STR,1490000,2018,68000,Diesel,Manual,Ludhiana,White,Second,Individual,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,AWD,4456.0,1820.0,1995.0,7.0,60.0
+Maruti Suzuki,Ritz Vdi BS-IV,120000,2009,80000,Diesel,Manual,Kanpur,Silver,4 or More,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+Maruti Suzuki,S-Cross Alpha 1.6,749000,2017,114000,Diesel,Manual,Faridabad,Grey,First,Individual,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD,4300.0,1765.0,1590.0,5.0,48.0
+Honda,City 1.5 V MT,365000,2010,58424,Petrol,Manual,Hyderabad,Gold,First,Individual,1497 cc,118@6600,146@4600,FWD,4420.0,1695.0,1480.0,5.0,42.0
+Lamborghini,Huracan LP 610-4,24000000,2016,6000,Petrol,Automatic,Delhi,Blue,First,Individual,5204 cc,602 bhp @ 8250 rpm,560 Nm @ 6500 rpm,AWD,4459.0,1924.0,1165.0,2.0,
+Mahindra,Scorpio S5 2WD 7 STR,1220000,2020,35000,Diesel,Manual,Patna,White,First,Individual,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD,4456.0,1820.0,1995.0,7.0,60.0
+Honda,City V CVT Petrol [2017-2019],1040000,2019,18000,Petrol,Automatic,Delhi,Brown,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Renault,Duster RXS 1.5 Petrol MT,890000,2020,23500,Petrol,Manual,Chennai,White,First,Individual,1498 cc,105 bhp @ 5600 rpm,142 Nm @ 4000 rpm,FWD,4360.0,1822.0,1695.0,5.0,50.0
+Ford,Ecosport Titanium 1.5 Ti-VCT,550000,2013,47000,Petrol,Manual,Indore,Black,First,Individual,1499 cc,109 bhp @ 6300 rpm,140 Nm @ 4400 rpm,FWD,3999.0,1765.0,1708.0,5.0,52.0
+BMW,3-Series 320d Prestige,2690000,2019,15500,Diesel,Automatic,Delhi,Blue,First,Individual,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD,4633.0,1811.0,1429.0,5.0,57.0
+Volkswagen,Polo GT TSI,944999,2017,41417,Petrol,Automatic,Bangalore,Grey,First,Individual,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD,3971.0,1682.0,1469.0,5.0,45.0
+Hyundai,Elite i20 Asta 1.2 [2016-2017],650000,2016,100000,Petrol,Manual,Hyderabad,Grey,First,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985.0,1734.0,1505.0,5.0,45.0
+Audi,A6 35 TDI Matrix,3400000,2018,51000,Diesel,Automatic,Hyderabad,Red,First,Individual,1968 cc,190 bhp @ 3800 rpm,400 Nm @ 1750 rpm,FWD,4933.0,1874.0,1455.0,5.0,75.0
+Maruti Suzuki,Estilo VXi BS-IV,229999,2012,52000,Petrol,Manual,Pune,White,First,Individual,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD,3600.0,1495.0,1595.0,5.0,35.0
+Volkswagen,Jetta 1.9L TDI,310000,2009,107879,Diesel,Manual,Pune,White,Second,Individual,,,,,,,,,
+Hyundai,Creta 1.6 SX Plus Petrol,1175000,2019,36313,Petrol,Manual,Mumbai,Grey,First,Individual,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Tata,Harrier XZ,1750000,2020,14400,Diesel,Manual,Ahmedabad,Silver,First,Individual,1956 cc,168 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD,4598.0,1894.0,1706.0,5.0,50.0
+Audi,Q7 45 TDI Premium Plus,4900000,2018,78000,Diesel,Automatic,Chandigarh,Black,First,Individual,2967 cc,245 bhp @ 2910 rpm,600 Nm @ 1500 rpm,AWD,5052.0,1968.0,1740.0,7.0,75.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],375000,2015,87500,Petrol,Manual,Gurgaon,Grey,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+BMW,5-Series 520d Sport Line,2990000,2017,44000,Diesel,Automatic,Mumbai,White,Second,Individual,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD,4936.0,1868.0,1479.0,5.0,57.0
+Audi,A3 35 TFSI Premium Plus,2180000,2018,77590,Petrol,Automatic,Delhi,Blue,First,Individual,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD,4456.0,1796.0,1416.0,5.0,50.0
+Chevrolet,Sail Sedan 1.2 LS,299000,2014,32000,Petrol,Manual,Dehradun,Silver,First,Individual,1199 cc,85 bhp @ 6000 rpm,113 Nm @ 5000 rpm,FWD,4249.0,1690.0,1503.0,5.0,42.0
+Audi,A7 Sportback 3.0 TDI quattro,2600000,2012,42000,Diesel,Automatic,Lucknow,White,First,Individual,2967 cc,241 bhp @ 4000 rpm,500 Nm @ 1400 rpm,AWD,4969.0,2139.0,1420.0,5.0,65.0
+Maruti Suzuki,Swift VXi [2014-2017],695000,2019,46027,Petrol,Manual,Hyderabad,Blue,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,1180000,2019,38000,Petrol,Automatic,Bangalore,White,First,Individual,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD,4370.0,1700.0,1475.0,5.0,43.0
+BMW,5-Series 520d Luxury Line [2017-2019],4500000,2018,49500,Diesel,Automatic,Hyderabad,Black,First,Individual,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD,4936.0,1868.0,1479.0,5.0,65.0
+Land Rover,Range Rover Sport SDV6 S,5900000,2014,70000,Diesel,Automatic,Mumbai,Grey,First,Corporate,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD,4879.0,2073.0,1780.0,5.0,77.0
+Maruti Suzuki,Ritz Vdi BS-IV,275000,2013,85785,Diesel,Manual,Ambala Cantt,Silver,Second,Individual,1248 cc,73 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3775.0,1680.0,1620.0,5.0,43.0
+Audi,A4 1.8 TFSI Multitronic Premium Plus,3125000,2020,28600,Petrol,Automatic,Lucknow,White,First,Individual,1798 cc,170 bhp @ 3800 rpm,320 Nm @ 1400 rpm,FWD,4701.0,1826.0,1427.0,5.0,63.0
+Mercedes-Benz,GLE 250 d,4200000,2017,85000,Diesel,Automatic,Ludhiana,Black,First,Individual,2143 cc,201 bhp @ 3800 rpm,500 Nm @ 1600 rpm,AWD,4819.0,2141.0,1796.0,5.0,93.0
+Mercedes-Benz,GLA 200 CDI Style,1750000,2015,99000,Diesel,Automatic,Chennai,White,Second,Individual,2143 cc,134 bhp @ 3600 rpm,300 Nm @ 1600 rpm,FWD,4417.0,1804.0,1494.0,5.0,50.0
+Hyundai,Santro Era,409999,2019,32000,Petrol,Manual,Zirakpur,Silver,First,Individual,1086 cc,68 bhp @ 5500 rpm,99 Nm @ 4500 rpm,FWD,3610.0,1645.0,1560.0,5.0,35.0
+Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],550000,2019,48000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+Mahindra,XUV300 1.5 W6 [2019-2020],1080000,2020,52000,Diesel,Manual,Lucknow,White,First,Individual,1497 cc,115 bhp @ 3750 rpm,300 Nm @ 1500 rpm,FWD,3995.0,1821.0,1627.0,5.0,42.0
+Audi,A3 35 TDI Premium,2900000,2019,15529,Diesel,Automatic,Mumbai,White,First,Individual,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD,4456.0,1796.0,1416.0,5.0,50.0
+Skoda,Kodiaq Style 2.0 TDI 4x4 AT,1989999,2018,103000,Diesel,Automatic,Delhi,White,First,Individual,,,,,4697.0,1882.0,1665.0,7.0,63.0
+Maruti Suzuki,Baleno Delta 1.2,535000,2017,34908,Petrol,Manual,Mumbai,Grey,First,Corporate,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1745.0,1500.0,5.0,37.0
+Hyundai,Xcent S 1.2 (O),425000,2015,11628,Petrol,Manual,Kolkata,Black,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3995.0,1660.0,1520.0,5.0,43.0
+Porsche,Cayenne Coupe Platinum Edition,16200000,2022,2766,Petrol,Automatic,Mumbai,Blue,First,Individual,2995 cc,335 bhp @ 5300 rpm,450 Nm @ 1340 rpm,AWD,4931.0,1983.0,1676.0,4.0,75.0
+Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,Individual,1998 cc,164 bhp @ 3800 rpm,380 Nm @ 2000 rpm,FWD,4597.0,1788.0,1477.0,5.0,60.0
+BMW,5-Series 525d Sedan,1195000,2010,74000,Diesel,Automatic,Mumbai,Silver,Second,Individual,2497 cc,177@4000,400@2000,,4841.0,1846.0,1468.0,5.0,70.0
+Skoda,Octavia 1.8 TSI L&K,1515000,2018,67546,Petrol,Automatic,Ludhiana,Others,Second,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4670.0,1814.0,1476.0,5.0,50.0
+Maruti Suzuki,Ciaz Zeta 1.4 AT,741000,2017,31000,Petrol,Automatic,Mumbai,Blue,First,Individual,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Maruti Suzuki,Celerio ZXi,509999,2015,42000,Petrol,Manual,Bangalore,White,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3600.0,1600.0,1560.0,5.0,35.0
+Tata,Manza Aqua Safire BS-IV,114999,2012,93000,Petrol,Manual,Unnao,Silver,Second,Individual,1368 cc,90@6000,116@4750,,4413.0,1703.0,1550.0,5.0,44.0
+Honda,City V Diesel,690000,2016,38000,Diesel,Manual,Patna,Brown,First,Individual,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Mahindra,Scorpio S11 4WD 7 STR,1375000,2019,69000,Diesel,Manual,Lucknow,Black,First,Individual,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,AWD,4456.0,1820.0,1995.0,7.0,60.0
+Honda,Brio E MT,375000,2016,35134,Petrol,Manual,Delhi,Silver,First,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3610.0,1680.0,1500.0,5.0,35.0
+Maruti Suzuki,Swift VDi,425000,2015,36528,Diesel,Manual,Varanasi,Blue,Third,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+BMW,X3 xDrive 20d Luxury Line [2018-2020],6200000,2021,39000,Diesel,Automatic,Ahmedabad,White,First,Individual,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD,4657.0,1881.0,1678.0,5.0,67.0
+Renault,Kwid 1.0 RXT AMT Opt,426999,2020,41669,Petrol,Automatic,Zirakpur,Others,First,Individual,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD,3679.0,1579.0,1478.0,5.0,28.0
+Hyundai,Verna EX 1.6 CRDi [2017-2018],810000,2018,73000,Diesel,Manual,Pune,Red,First,Individual,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD,4440.0,1729.0,1475.0,5.0,45.0
+BMW,X1 sDrive20d xLine,3400000,2019,11000,Diesel,Automatic,Delhi,Black,First,Individual,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD,4454.0,2044.0,1545.0,5.0,63.0
+Mercedes-Benz,GLC 220d 4MATIC Progressive,6750000,2022,7000,Diesel,Automatic,Lucknow,Blue,First,Individual,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,AWD,4658.0,1890.0,1644.0,5.0,66.0
+Audi,Q2 Premium 40 TFSI quattro,3450000,2022,4600,Petrol,Automatic,Gurgaon,Blue,First,Individual,1984 cc,188 bhp @ 4200 rpm,320 Nm @ 1500 rpm,AWD,4318.0,1805.0,1548.0,5.0,55.0
+Hyundai,Creta SX 1.6 (O) Petrol,1275000,2019,44000,Petrol,Manual,Delhi,Grey,First,Individual,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD,4270.0,1780.0,1665.0,5.0,55.0
+Renault,Kwid 1.0 RXT Edition,395000,2018,75500,Petrol,Manual,Raipur,Blue,First,Individual,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD,3679.0,1579.0,1478.0,5.0,28.0
+Mahindra,Bolero Power Plus ZLX [2016-2019],670000,2017,72000,Diesel,Manual,Guwahati,White,First,Individual,1493 cc,70 bhp @ 3600 rpm,195 Nm @ 1400 rpm,RWD,3995.0,1745.0,1880.0,7.0,
+Maruti Suzuki,Swift DZire VXI,450000,2017,75000,Petrol,Manual,Kanpur,White,First,Commercial Registration,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Maruti Suzuki,Wagon R LXI CNG,400000,2016,67850,CNG,Manual,Mumbai,Red,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+Honda,City VX,1199000,2020,26497,Petrol,Manual,Kolkata,White,Second,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Mahindra,Scorpio VLX 2WD Airbag BS-IV,625000,2013,170000,Diesel,Manual,Salem,White,Third,Individual,2179 cc,120 bhp @ 4000 rpm,290 Nm @ 1800 rpm,RWD,4430.0,1817.0,1975.0,8.0,60.0
+Maruti Suzuki,SX4 VXi,185000,2010,64000,Petrol,Manual,Delhi,Silver,First,Individual,1586 cc,102@5500,145@4200,,4490.0,1735.0,1560.0,5.0,50.0
+Hyundai,Creta SX 1.5 Petrol CVT [2020-2022],1925000,2022,9355,Petrol,Automatic,Mumbai,White,First,Individual,1497 cc,113 bhp @ 6300 rpm,144 Nm @ 4500 rpm,FWD,4300.0,1790.0,1635.0,5.0,50.0
+Maruti Suzuki,DZire VXi,685000,2019,74000,Petrol,Manual,Pune,Blue,First,Individual,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD,3995.0,1735.0,1515.0,5.0,37.0
+Mercedes-Benz,GLA 220 d Activity Edition,2250000,2016,79000,Diesel,Automatic,Chennai,Red,First,Individual,2143 cc,168 bhp @ 3400 rpm,350 Nm @ 1400 rpm,AWD,4417.0,1804.0,1494.0,5.0,50.0
+Maruti Suzuki,Alto 800 Lxi,245000,2016,55000,Petrol,Manual,Faridabad,White,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+Maruti Suzuki,Swift ZXi,800000,2022,10000,Petrol,Manual,Jalandhar,White,First,Individual,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD,3845.0,1735.0,1530.0,5.0,37.0
+Maruti Suzuki,Wagon R LXi CNG,260000,2013,89000,CNG,Manual,Lucknow,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+Skoda,Superb L&K TSI AT,3199000,2021,6900,Petrol,Automatic,Kolkata,Brown,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4861.0,1864.0,1483.0,5.0,66.0
+Maruti Suzuki,Alto VXi,200000,2011,51000,Petrol,Manual,Mumbai,Orange,Second,Individual,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD,3620.0,1475.0,1460.0,5.0,35.0
+Honda,City VX CVT,690000,2015,59000,Petrol,Automatic,Faridabad,Silver,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Honda,Amaze 1.2 E MT Petrol [2018-2020],675000,2020,25000,Petrol,Manual,Delhi,White,First,Individual,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD,3995.0,1695.0,1501.0,5.0,35.0
+Mercedes-Benz,C-Class C 200 Progressive [2018-2020],4900000,2022,5000,Petrol,Automatic,Delhi,White,First,Individual,1497 cc,181 bhp @ 5800 rpm,280 Nm @ 1600 rpm,RWD,4686.0,1810.0,1442.0,5.0,66.0
+Hyundai,Verna Fluidic 1.6 CRDi SX,400000,2013,71000,Diesel,Manual,Agra,Grey,First,Individual,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1900 rpm,FWD,4370.0,1700.0,1475.0,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,699000,2017,67000,Petrol,Manual,Navi Mumbai,White,First,Individual,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD,4370.0,1700.0,1475.0,5.0,43.0
+Hyundai,i10 Magna,175000,2009,23000,Petrol,Manual,Mumbai,Red,First,Individual,1086 cc,67@5500,99@2800,FWD,3565.0,1595.0,1550.0,5.0,35.0
+Maruti Suzuki,Swift DZire LDI,520000,2018,46000,Diesel,Manual,Bhubaneswar,White,First,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Mahindra,TUV300 T10,944999,2019,88000,Diesel,Manual,Hyderabad,White,First,Individual,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD,3995.0,1795.0,1817.0,7.0,60.0
+Maruti Suzuki,Swift VXi,409999,2014,55000,Petrol,Manual,Delhi,Grey,First,Individual,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Mahindra,Thar LX 4-STR Hard Top Petrol AT,1710000,2021,4400,Petrol,Automatic,Mumbai,Black,First,Individual,1997 cc,150 bhp @ 5000 rpm,320 Nm @ 1500 rpm,AWD,3985.0,1820.0,1844.0,4.0,57.0
+Hyundai,Sonata 2.0 CRDi,225000,2009,140000,Diesel,Manual,Yamunanagar,Silver,Third,Individual,1991 cc,142@4000,323@2000,FWD,4800.0,1832.0,1485.0,5.0,70.0
+Honda,CR-V 2.4 AT,844999,2014,80121,Petrol,Automatic,Mumbai,White,Second,Individual,,,,,,,,,
+Hyundai,Elite i20 Sportz 1.2,625000,2018,23000,Petrol,Manual,Delhi,Red,First,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985.0,1734.0,1505.0,5.0,40.0
+Skoda,Rapid 1.5 TDI CR Ambition Plus AT,549000,2014,42000,Diesel,Automatic,Chandigarh,Bronze,First,Individual,1498 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD,4386.0,1699.0,1466.0,5.0,55.0
+Maruti Suzuki,Swift VDi,375000,2011,120000,Diesel,Manual,Hyderabad,Silver,First,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],1495000,2017,28000,Petrol,Automatic,Mumbai,Grey,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4670.0,1814.0,1476.0,5.0,50.0
+Audi,A3 35 TDI Technology + Sunroof,3050000,2020,40910,Diesel,Automatic,Bangalore,White,First,Individual,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD,4456.0,1796.0,1416.0,5.0,50.0
+Maruti Suzuki,Zen LXi BS-II,71001,2004,65082,Petrol,Manual,Kolkata,Yellow,First,Individual,,,,,,,,,
+Maruti Suzuki,Wagon R VXi,350000,2013,45000,Petrol,Manual,Pune,White,First,Individual,998 cc,68@6200,90@3500,,3539.0,1495.0,1700.0,5.0,35.0
+Audi,Q3 35 TDI Premium + Sunroof,1850000,2015,71700,Diesel,Automatic,Navi Mumbai,White,Second,Individual,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD,4385.0,1831.0,1608.0,5.0,64.0
+Tata,Tiago Revotron XZA [2017-2019],475000,2017,34867,Petrol,Automatic,Mumbai,Silver,Second,Individual,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD,3746.0,1647.0,1535.0,5.0,35.0
+Maruti Suzuki,Eeco 7 STR [2019-2020],450000,2018,32000,Petrol,Manual,Udupi,White,Second,Individual,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD,3675.0,1475.0,1800.0,7.0,40.0
+BMW,3-Series 320d Sport Line [2014-2016],2000000,2014,82000,Diesel,Automatic,Mohali,White,First,Individual,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD,4624.0,2031.0,1429.0,5.0,
+Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,Individual,1364 cc,68 bhp @ 3600 rpm,170 Nm @ 2400 rpm,FWD,4265.0,1695.0,1510.0,5.0,45.0
+Honda,City VX (O) MT,975000,2019,56881,Petrol,Manual,Lucknow,Silver,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Hyundai,i10 Magna 1.2 Kappa2,250000,2011,53000,Petrol,Manual,Kanpur,White,First,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585.0,1595.0,1550.0,5.0,35.0
+Maruti Suzuki,Vitara Brezza LDi (O) [2016-2018],675000,2016,50000,Diesel,Manual,Mohali,Grey,First,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,3995.0,1790.0,1640.0,5.0,48.0
+Maruti Suzuki,Ertiga ZDI + SHVS,765000,2017,68000,Diesel,Manual,Delhi,Grey,First,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,4296.0,1695.0,1685.0,7.0,45.0
+Maruti Suzuki,Swift DZire VXI AT,750000,2017,48069,Petrol,Automatic,Hyderabad,White,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Hyundai,Creta SX 1.6 AT CRDi,1425000,2018,72870,Diesel,Automatic,Mumbai,White,First,Corporate,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD,4270.0,1780.0,1665.0,5.0,55.0
+Maruti Suzuki,Swift VXi [2014-2017],650000,2019,44710,Petrol,Manual,Pune,White,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Maruti Suzuki,Ciaz Delta Hybrid 1.5 [2018-2020],750000,2019,6200,Petrol,Manual,Mumbai,Blue,First,Individual,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Mahindra,Quanto C8,240000,2013,51500,Diesel,Manual,Kolkata,Maroon,Second,Individual,1493 cc,100 bhp @ 3750 rpm,240 Nm @ 1600 rpm,RWD,3985.0,1850.0,1880.0,7.0,55.0
+Mercedes-Benz,E-Class E 220d Expression [2019-2019],4775000,2018,51529,Diesel,Automatic,Bangalore,White,First,Individual,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD,5063.0,1860.0,1494.0,5.0,80.0
+Skoda,Kushaq Style 1.0L TSI AT,1625000,2021,7900,Petrol,Automatic,Pune,Silver,First,Individual,999 cc,114 bhp @ 5000 rpm,178 Nm @ 1750 rpm,FWD,4225.0,1760.0,1612.0,5.0,50.0
+Toyota,Innova 2.4 VX 8 STR [2016-2020],1998999,2019,71063,Diesel,Manual,Navi Mumbai,Silver,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,8.0,55.0
+Maruti Suzuki,Wagon R LXi CNG,280000,2011,54000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+Tata,Altroz XT Petrol,575000,2020,40000,Petrol,Manual,Kolkata,White,First,Individual,1199 cc,85 bhp @ 6000 rpm,113 Nm @ 3300 rpm,FWD,3990.0,1755.0,1523.0,5.0,37.0
+Maruti Suzuki,DZire VDi,800000,2018,66000,Diesel,Manual,Pune,Gold,First,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3995.0,1735.0,1515.0,5.0,37.0
+Volkswagen,Tiguan Highline TDI,2050000,2018,73000,Diesel,Automatic,Coimbatore,White,Second,Individual,1968 cc,141 bhp @ 4000 rpm,340 Nm @ 1750 rpm,AWD,4486.0,1839.0,1672.0,5.0,71.0
+Skoda,Superb Style TSI AT,1650000,2017,52458,Petrol,Automatic,Mumbai,Black,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4861.0,1864.0,1483.0,5.0,66.0
+BMW,3-Series 320d Luxury Line,1395000,2013,65000,Diesel,Automatic,Kolkata,Black,Second,Individual,1995 cc,188 bhp @ 4000 rpm,400 Nm @ 1750 rpm,RWD,4633.0,1811.0,1429.0,5.0,57.0
+Hyundai,Elite i20 Sportz 1.5 MT Diesel,825000,2021,43000,Diesel,Manual,Agra,White,First,Individual,1493 cc,99 bhp @ 4000 rpm,240 Nm @ 1500 rpm,FWD,3995.0,1775.0,1505.0,5.0,37.0
+Land Rover,Evoque HSE Dynamic,4000000,2017,25500,Diesel,Automatic,Pune,White,Second,Individual,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD,4360.0,2120.0,1635.0,5.0,57.0
+Maruti Suzuki,Ignis Zeta 1.2 AMT,521000,2017,40879,Petrol,Automatic,Mumbai,Red,First,Individual,1197 cc,82 bhp @ 6000 rpm,113 Nm @ 4200 rpm,FWD,3700.0,1690.0,1595.0,5.0,32.0
+Hyundai,Santro GL (CNG),145000,2009,72000,CNG,Manual,Kanpur,Silver,Second,Individual,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD,3565.0,1525.0,1590.0,5.0,35.0
+Mahindra,TUV300 T8,565000,2017,65000,Diesel,Manual,Delhi,Red,Second,Individual,1493 cc,84 bhp @ 3750 rpm,230 Nm @ 1500 rpm,RWD,3995.0,1835.0,1839.0,7.0,60.0
+BMW,X5 3.0d,1400000,2009,115000,Diesel,Automatic,Coimbatore,Green,Second,Individual,2993 cc,218@4000,480@1750,AWD,4854.0,1933.0,1776.0,5.0,85.0
+Mahindra,Thar LX 4-STR Hard Top Petrol MT,1520000,2021,14000,Petrol,Manual,Delhi,Brown,First,Individual,1997 cc,150 bhp @ 5000 rpm,300 Nm @ 1250 rpm,AWD,3985.0,1820.0,1844.0,4.0,57.0
+Tata,Nexon XM Diesel,725000,2018,65000,Diesel,Manual,Amritsar,White,Second,Individual,1497 cc,108 bhp @ 3750 rpm,260 Nm @ 1500 rpm,FWD,3994.0,1811.0,1607.0,5.0,44.0
+Land Rover,Range Rover Sport SDV6 SE,6000000,2014,82000,Diesel,Automatic,Ludhiana,White,First,Individual,2993 cc,289 bhp @ 4000 rpm,600 Nm @ 2000 rpm,AWD,4879.0,2073.0,1780.0,5.0,77.0
+Maruti Suzuki,Ciaz VDi SHVS,625000,2016,51330,Diesel,Manual,Mumbai,Brown,First,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Hyundai,Verna Fluidic 1.6 VTVT SX,547000,2013,36623,Petrol,Manual,Zirakpur,Silver,First,Individual,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD,4370.0,1700.0,1475.0,5.0,43.0
+Honda,Accord 2.4 AT,475000,2011,72000,Petrol,Automatic,Delhi,Gold,First,Individual,2354 cc,178 bhp @ 6500 rpm,222 Nm @ 4300 rpm,FWD,4950.0,1845.0,1475.0,5.0,70.0
+Maruti Suzuki,Swift DZire VDI,500000,2015,90000,Diesel,Manual,Ludhiana,White,First,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Hyundai,Santro GL Plus,254999,2012,17000,Petrol,Manual,Mohali,Silver,First,Individual,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD,3565.0,1525.0,1590.0,5.0,35.0
+Porsche,Macan S [2019-2020],7500000,2020,38000,Petrol,Automatic,Ahmedabad,Blue,First,Individual,2995 cc,349 bhp @ 5400 rpm,480 Nm @ 1360 rpm,AWD,4696.0,1923.0,1624.0,5.0,65.0
+Maruti Suzuki,Alto 800 Lxi CNG,390000,2019,56000,CNG,Manual,Ahmedabad,White,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+Maruti Suzuki,Alto 800 Lxi,280000,2018,48000,Petrol,Manual,Kanpur,Silver,Second,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+Chevrolet,Cruze LTZ,320000,2011,75000,Diesel,Manual,Kanpur,Purple,Second,Individual,1991 cc,150@4000,327@2600,,4597.0,1788.0,1477.0,5.0,60.0
+Maruti Suzuki,Swift DZire ZXI,545000,2015,70000,Petrol,Manual,Mohali,Silver,First,Individual,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Toyota,Fortuner 2.8 4x4 AT [2016-2020],2749000,2017,120000,Diesel,Automatic,Faridabad,White,First,Individual,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD,4795.0,1855.0,1835.0,7.0,80.0
+Maruti Suzuki,Ritz Ldi BS-IV,195000,2011,75000,Diesel,Manual,Kanpur,White,First,Individual,1248 cc,75@4000,190@2000,,3715.0,1680.0,1620.0,5.0,43.0
+Mercedes-Benz,C-Class C 200 Avantgarde,2385000,2015,60921,Petrol,Automatic,Pune,Black,Second,Individual,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,RWD,4686.0,1810.0,1442.0,5.0,66.0
+Mahindra,XUV700 AX 7 Diesel AT 7 STR,2540000,2022,18000,Diesel,Automatic,Delhi,White,First,Individual,2184 cc,182 bhp @ 3500 rpm,450 Nm @ 1750 rpm,FWD,4695.0,1890.0,1755.0,7.0,60.0
+Maruti Suzuki,Swift Lxi (O) [2014-2017],570000,2019,13000,Petrol,Manual,Delhi,Silver,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Renault,Kwid RXT [2015-2019],320000,2016,64000,Petrol,Manual,Mohali,Silver,First,Individual,799 cc,53 bhp @ 5678 rpm,72 Nm @ 4386 rpm,FWD,3679.0,1579.0,1478.0,5.0,28.0
+Volkswagen,Polo Highline1.0L (P),720000,2018,50197,Petrol,Manual,Pune,Grey,First,Individual,999 cc,75 bhp @ 6200 rpm,95 Nm @ 3000 rpm,FWD,3971.0,1682.0,1469.0,5.0,45.0
+Honda,Amaze 1.2 S i-VTEC Opt,480000,2016,50000,Petrol,Manual,Guwahati,White,First,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3990.0,1680.0,1505.0,5.0,35.0
+Ford,Ecosport Titanium+ 1.5L TDCi,699000,2017,75000,Diesel,Manual,Mumbai,Grey,First,Individual,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD,3999.0,1765.0,1708.0,5.0,52.0
+Land Rover,Range Rover Sport SE 2.0 Petrol,12500000,2022,22010,Petrol,Automatic,Mohali,White,First,Individual,1997 cc,296 bhp @ 5500 rpm,400 Nm @ 1500 rpm,AWD,4879.0,2073.0,1803.0,5.0,104.0
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,2850000,2016,21200,Diesel,Automatic,Pune,Silver,First,Individual,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,RWD,4686.0,1810.0,1442.0,5.0,66.0
+Maruti Suzuki,Celerio VXi AMT,416000,2014,60116,Petrol,Automatic,Bangalore,Grey,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3600.0,1600.0,1560.0,5.0,35.0
+Land Rover,Discovery 3.0 TDV6 HSE,4390000,2013,91840,Diesel,Automatic,Mumbai,Blue,Second,Individual,,,,,,,,,
+Mahindra,Scorpio S5 2WD 7 STR,1221000,2019,46000,Diesel,Manual,Patna,White,First,Individual,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD,4456.0,1820.0,1995.0,7.0,60.0
+Maruti Suzuki,Vitara Brezza VDi AGS,894999,2019,46000,Diesel,Automatic,Mumbai,White,First,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,3995.0,1790.0,1640.0,5.0,48.0
+Maruti Suzuki,Swift LXi,440000,2016,53807,Petrol,Manual,Gurgaon,White,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Hyundai,Verna 1.6 VTVT SX,645000,2016,45000,Petrol,Manual,Delhi,White,First,Individual,1591 cc,121 bhp @ 6300 rpm,158 Nm @ 4200 rpm,FWD,4375.0,1700.0,1475.0,5.0,43.0
+Audi,A6 2.0 TDI Premium,1490000,2012,42000,Diesel,Automatic,Raipur,Brown,First,Individual,1968 cc,177 bhp @ 3750 rpm,380 Nm @ 1750 rpm,FWD,4915.0,1874.0,1455.0,5.0,65.0
+Maruti Suzuki,Ciaz VDi+ SHVS,591000,2015,65000,Diesel,Manual,Ahmedabad,White,First,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Mahindra,Scorpio S11 2WD 7 STR,1350000,2018,56500,Diesel,Manual,Lucknow,Black,First,Individual,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD,4456.0,1820.0,1995.0,7.0,60.0
+Mahindra,Scorpio S4 1.99 [2016-2017],950000,2017,55000,Diesel,Manual,Patna,White,Second,Individual,1997 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD,4456.0,1820.0,1995.0,8.0,60.0
+Toyota,Innova 2.5 VX 7 STR BS-III,1290000,2014,85000,Diesel,Manual,Bangalore,Silver,Second,Individual,2494 cc,100 bhp @ 3600 rpm,200 Nm @ 1400 rpm,RWD,4585.0,1760.0,1760.0,7.0,55.0
+Audi,A4 35 TDI Technology,2799000,2017,72400,Diesel,Automatic,Bangalore,White,First,Individual,1968 cc,188 bhp @ 4200 rpm,400 Nm @ 1750 rpm,FWD,4726.0,1842.0,1427.0,5.0,54.0
+Volkswagen,Polo Comfortline 1.5L (D),345000,2015,70000,Diesel,Manual,Faridabad,Red,First,Individual,1498 cc,89 bhp @ 4200 rpm,230 Nm @ 1500 rpm,FWD,3971.0,1682.0,1469.0,5.0,45.0
+Hyundai,Creta 1.6 SX,850000,2016,72000,Diesel,Manual,Ahmedabad,Red,First,Individual,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Land Rover,Discovery Sport HSE Luxury,3500000,2016,78000,Diesel,Automatic,Pune,Red,First,Individual,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD,4600.0,2069.0,1690.0,7.0,65.0
+Hyundai,i10 Magna (O),150000,2008,62000,Petrol,Manual,Mumbai,Red,Second,Individual,1086 cc,67@5500,99@2800,FWD,3565.0,1595.0,1550.0,5.0,35.0
+Toyota,Fortuner 2.8 4x2 AT [2016-2020],3775000,2020,50000,Diesel,Automatic,Mumbai,White,First,Individual,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,RWD,4795.0,1855.0,1835.0,7.0,80.0
+Mahindra,Scorpio S9 2WD 7 STR,1270000,2019,61805,Diesel,Manual,Guwahati,White,First,Individual,2179 cc,140 bhp @ 3750 rpm,320 Nm @ 1500 rpm,RWD,4456.0,1820.0,1995.0,7.0,60.0
+Ford,Endeavour Titanium 2.0 4x2 AT,3800000,2020,20000,Diesel,Automatic,Karnal,Black,First,Individual,1996 cc,168 bhp @ 3500 rpm,420 Nm @ 2000 rpm,RWD,4903.0,1869.0,1837.0,7.0,80.0
+Maruti Suzuki,Wagon R LXi Minor,218000,2008,51000,Petrol,Manual,Coimbatore,Gold,Second,Individual,1061 cc,67@6200,84@3500,FWD,3520.0,1475.0,1690.0,5.0,35.0
+Honda,Brio EX MT,325000,2014,43037,Petrol,Manual,Haldwani,Silver,First,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3610.0,1680.0,1500.0,5.0,35.0
+Maruti Suzuki,Alto VXi,185000,2012,37000,Petrol,Manual,Kolkata,Red,First,Individual,998 cc,67 bhp @ 6200 rpm,90 Nm @ 3500 rpm,FWD,3620.0,1475.0,1460.0,5.0,35.0
+Honda,City V,600000,2014,75574,Petrol,Manual,Jaipur,Others,Second,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+BMW,X1 sDrive20d xLine,3675000,2020,37180,Diesel,Automatic,Bangalore,White,First,Individual,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD,4454.0,2044.0,1545.0,5.0,63.0
+Volkswagen,Vento Highline Plus 1.2 (P) AT 16 Alloy,775000,2017,60500,Petrol,Automatic,Surat,White,First,Individual,1197 cc,103 bhp @ 5000 rpm,175 Nm @ 1500 rpm,FWD,4390.0,1699.0,1467.0,5.0,55.0
+Hyundai,Venue SX Plus 1.0 Turbo DCT,1090000,2020,26200,Petrol,Automatic,Delhi,White,First,Individual,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD,3995.0,1770.0,1605.0,5.0,45.0
+Hyundai,Tucson GL 2WD AT Diesel,2089999,2019,31000,Diesel,Automatic,Delhi,White,First,Individual,1995 cc,182 bhp @ 4000 rpm,400 Nm @ 1750 rpm,FWD,4475.0,1850.0,1660.0,5.0,62.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],480000,2019,10265,Petrol,Manual,Hyderabad,Grey,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+Maruti Suzuki,Ciaz ZXI+,640000,2016,50800,Petrol,Manual,Lucknow,White,First,Individual,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Maruti Suzuki,Wagon R LXI CNG,400000,2017,43000,CNG,Manual,Agra,Grey,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+Mercedes-Benz,E-Class E 350 d Exclusive [2017-2019],6225000,2019,42079,Diesel,Automatic,Pune,Silver,First,Individual,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,RWD,5063.0,1860.0,1494.0,5.0,80.0
+Land Rover,Discovery 2.0 HSE 4WD Diesel,4700000,2020,22000,Diesel,Automatic,Delhi,Red,Second,Individual,1999 cc,237 bhp @ 4000 rpm,430 Nm @ 1400 rpm,AWD,4988.0,2220.0,1846.0,5.0,
+Maruti Suzuki,Baleno Sigma 1.2,545000,2017,61518,Petrol,Manual,Noida,Red,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1745.0,1500.0,5.0,37.0
+Maruti Suzuki,Ertiga VDi,425000,2012,78000,Diesel,Manual,Jalandhar,White,Second,Individual,1248 cc,89 bhp @ 4000 rpm,200 Nm @ 1750 rpm,FWD,4265.0,1695.0,1685.0,7.0,45.0
+Mercedes-Benz,CLA 200 Petrol Sport,1975000,2015,19000,Petrol,Automatic,Pune,White,First,Individual,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD,4630.0,1777.0,1432.0,5.0,
+Mercedes-Benz,GLS 400 4MATIC,5950000,2017,80000,Petrol,Automatic,Delhi,Black,First,Individual,2996 cc,329 bhp @ 5250 rpm,480 Nm @ 1600 rpm,AWD,5130.0,1934.0,1850.0,5.0,100.0
+Ford,Ikon DuraTorq 1.4 TDCi,145000,2009,88000,Diesel,Manual,Unnao,White,First,Individual,1399 cc,68@4000,160@2000,,4145.0,1632.0,1440.0,5.0,43.0
+Mahindra,Thar CRDe 4x4 AC,875000,2018,24000,Diesel,Manual,Mumbai,White,First,Individual,2498 cc,105 bhp @ 3800 rpm,247 Nm @ 1800 rpm,AWD,3920.0,1726.0,1930.0,6.0,60.0
+Maruti Suzuki,XL6 Zeta MT Petrol,1225000,2022,16000,Petrol,Manual,Delhi,Grey,First,Individual,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD,4445.0,1775.0,1700.0,6.0,45.0
+Skoda,Rapid 1.5 TDI CR Ambition Plus AT,499000,2014,88000,Diesel,Automatic,Pune,Black,Second,Individual,1498 cc,103 bhp @ 4400 rpm,250 Nm @ 1500 rpm,FWD,4386.0,1699.0,1466.0,5.0,55.0
+Mercedes-Benz,S-Class S 500,1875000,2011,72000,Petrol,Automatic,Mumbai,Silver,First,Individual,4663 cc,453 bhp @ 5250 rpm,700 Nm @ 1800 rpm,RWD,5246.0,1899.0,1494.0,4.0,80.0
+Hyundai,Creta SX Plus 1.6 AT CRDI,1190000,2018,76000,Diesel,Automatic,Chandigarh,White,First,Individual,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Kia,Sonet GTX Plus 1.0 iMT [2020-2021],1195000,2022,6200,Petrol,Manual,Kolkata,Red,First,Individual,998 cc,118 bhp @ 6000 rpm,172 Nm @ 1500 rpm,FWD,3995.0,1790.0,1647.0,5.0,45.0
+Maruti Suzuki,Swift DZire LXI (O),421000,2017,69000,Petrol,Manual,Faridabad,Grey,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1695.0,1555.0,5.0,42.0
+Hyundai,i10 Magna 1.2 Kappa2,250000,2012,54556,Petrol,Manual,Lucknow,White,First,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585.0,1595.0,1550.0,5.0,35.0
+Honda,City V,835000,2018,42855,Petrol,Manual,Pune,Brown,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],440000,2018,40000,Petrol,Manual,Kanpur,White,First,Individual,,,,,3655.0,1620.0,1675.0,5.0,32.0
+Toyota,Innova 2.5 GX BS IV 7 STR,990000,2015,98000,Diesel,Manual,Mumbai,Gold,First,Individual,2494 cc,101 bhp @ 3600 rpm,200 Nm @ 1200 rpm,RWD,4585.0,1765.0,1760.0,7.0,55.0
+Hyundai,Elite i20 Sportz 1.2 (O),660000,2018,9000,Petrol,Manual,Mumbai,Grey,First,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985.0,1734.0,1505.0,5.0,45.0
+BMW,5-Series 530i Sport Line,4250000,2018,32000,Petrol,Automatic,Mumbai,Blue,First,Individual,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD,4936.0,1868.0,1479.0,5.0,57.0
+Maruti Suzuki,S-Cross Alpha 1.6,590000,2016,77000,Diesel,Manual,Delhi,Silver,First,Individual,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD,4300.0,1765.0,1590.0,5.0,48.0
+Maruti Suzuki,Ertiga VXI CNG,800000,2017,76642,CNG,Manual,Mumbai,Silver,First,Individual,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4296.0,1695.0,1685.0,7.0,45.0
+Land Rover,Discovery Sport HSE Luxury,3900000,2016,20000,Diesel,Automatic,Hyderabad,Grey,First,Individual,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,AWD,4600.0,2069.0,1690.0,7.0,65.0
+Toyota,Innova 2.4 G 7 STR [2016-2017],2250000,2020,24549,Diesel,Manual,Jaipur,Grey,Second,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,7.0,55.0
+Maruti Suzuki,S-Cross Alpha 1.6,710000,2018,72000,Diesel,Manual,Lucknow,Blue,First,Individual,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD,4300.0,1765.0,1590.0,5.0,48.0
+Honda,CR-V 2.4 AT,860000,2013,67000,Petrol,Automatic,Mumbai,Brown,First,Individual,,,,,,,,,
+Ford,Ecosport Ambiente 1.5L TDCi,585000,2016,62591,Diesel,Manual,Mumbai,Silver,First,Individual,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD,3998.0,1765.0,1647.0,5.0,52.0
+Maruti Suzuki,Alto 800 LXi (O),449000,2019,3583,Petrol,Manual,Bangalore,Grey,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3445.0,1515.0,1475.0,5.0,35.0
+BMW,X1 sDrive20d xLine,2800000,2017,29000,Diesel,Automatic,Bangalore,Brown,Second,Individual,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD,4454.0,2044.0,1545.0,5.0,63.0
+Hyundai,Xcent SX CRDi,434999,2017,27000,Diesel,Manual,Kolkata,White,Second,Individual,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD,3995.0,1660.0,1520.0,5.0,43.0
+Toyota,Fortuner 2.8 4x4 AT [2016-2020],3470000,2018,62152,Diesel,Automatic,Mumbai,Silver,First,Individual,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD,4795.0,1855.0,1835.0,7.0,80.0
+Maruti Suzuki,Celerio X Zxi AMT [2017-2019],484999,2018,44000,Petrol,Automatic,Delhi,Grey,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3715.0,1635.0,1565.0,5.0,35.0
+BMW,X1 sDrive20d xLine,4500000,2022,17000,Diesel,Automatic,Mumbai,White,First,Individual,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD,4454.0,2044.0,1545.0,5.0,63.0
+Toyota,Corolla Altis GL Petrol,1075000,2016,70000,Petrol,Manual,Delhi,White,First,Individual,1798 cc,138 bhp @ 6400 rpm,173 Nm @ 4000 rpm,FWD,4620.0,1775.0,1475.0,5.0,55.0
+Mercedes-Benz,CLA 200 Petrol Sport,1898999,2015,47000,Petrol,Automatic,Mumbai,White,Second,Individual,1991 cc,181 bhp @ 5500 rpm,300 Nm @ 1200 rpm,FWD,4630.0,1777.0,1432.0,5.0,
+Toyota,Fortuner 2.8 4x4 AT [2016-2020],2800000,2017,49000,Diesel,Automatic,Delhi,White,Second,Individual,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD,4795.0,1855.0,1835.0,7.0,80.0
+Audi,Q3 35 TDI Premium + Sunroof,1695000,2015,60000,Diesel,Automatic,Delhi,White,Second,Individual,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD,4385.0,1831.0,1608.0,5.0,64.0
+Skoda,Octavia 1.8 TSI Style Plus AT [2017],1390000,2017,56000,Petrol,Automatic,Mumbai,White,First,Individual,1798 cc,177 bhp @ 5100 rpm,250 Nm @ 1250 rpm,FWD,4670.0,1814.0,1476.0,5.0,50.0
+MG,Hector Sharp 1.5 DCT Petrol [2019-2020],1889999,2021,17000,Petrol,Automatic,Delhi,White,First,Individual,1451 cc,141 bhp @ 5000 rpm,250 Nm @ 1600 rpm,,4655.0,1835.0,1760.0,5.0,60.0
+BMW,X5 xDrive 30d,4175000,2016,27011,Diesel,Automatic,Karnal,White,Second,Individual,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD,4886.0,1938.0,1762.0,7.0,
+Maruti Suzuki,Baleno Delta 1.2,715000,2021,16000,Petrol,Manual,Delhi,Grey,First,Individual,1197 cc,83 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3995.0,1745.0,1500.0,5.0,37.0
+Audi,A4 30 TFSI Technology Pack,3000000,2017,42000,Petrol,Automatic,Pune,White,First,Individual,1395 cc,148 bhp @ 5000 rpm,250 Nm @ 1500 rpm,FWD,4726.0,1842.0,1427.0,5.0,54.0
+Hyundai,Creta 1.6 SX Plus Special Edition,800000,2015,90000,Diesel,Manual,Lucknow,Silver,First,Individual,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Maruti Suzuki,Ritz VXI BS-IV,300000,2011,90000,Petrol,Manual,Pune,White,Second,Individual,,,,,,,,,
+Audi,A6 Technology 45 TFSI,5300000,2020,36000,Petrol,Automatic,Chennai,Grey,First,Individual,1984 cc,241 bhp @ 5000 rpm,370 Nm @ 1600 rpm,FWD,4939.0,1886.0,1457.0,5.0,73.0
+Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,Individual,1984 cc,150 bhp @ 3500 rpm,350 Nm @ 1500 rpm,FWD,4370.0,1783.0,1458.0,5.0,60.0
+Maruti Suzuki,DZire VXi,691000,2019,16652,Petrol,Manual,Ahmedabad,White,First,Individual,1197 cc,89 bhp @ 6000 rpm,113 Nm @ 4400 rpm,FWD,3995.0,1735.0,1515.0,5.0,37.0
+Mercedes-Benz,GL-Class 350 CDI,4200000,2015,77000,Diesel,Automatic,Chennai,Black,Second,Individual,2987 cc,258 bhp @ 3600 rpm,619 Nm @ 1600 rpm,AWD,5120.0,1934.0,1850.0,7.0,100.0
+Toyota,Innova 2.4 ZX 7 STR [2016-2020],1725000,2016,145000,Diesel,Manual,Lucknow,White,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,7.0,55.0
+Jaguar,XJ 3.0 V6 Portfolio,3600000,2014,32000,Diesel,Automatic,Pune,Brown,Second,Individual,2993 cc,271 bhp @ 4000 rpm,600 Nm @ 2000 rpm,RWD,5252.0,1899.0,1457.0,5.0,83.0
+Honda,Amaze 1.2 V CVT Petrol [2018-2020],795000,2019,22224,Petrol,Automatic,Pune,Grey,First,Individual,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD,3995.0,1695.0,1501.0,5.0,35.0
+Honda,Amaze 1.2 E i-VTEC,650000,2019,42000,Petrol,Manual,Delhi,White,First,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3990.0,1680.0,1505.0,5.0,35.0
+Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,649000,2020,52236,Petrol,Manual,Udupi,Silver,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+Tata,Tiago Revotron XE [2016-2019],409000,2018,27069,Petrol,Manual,Mumbai,White,First,Individual,1199 cc,84 bhp @ 6000 rpm,114 Nm @ 3500 rpm,FWD,3746.0,1647.0,1535.0,5.0,35.0
+Hyundai,Creta SX 1.5 Diesel [2020-2022],1700000,2022,9000,Diesel,Manual,Raipur,Black,First,Individual,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD,4300.0,1790.0,1635.0,5.0,50.0
+Chevrolet,Cruze LTZ,400000,2011,80000,Diesel,Manual,Mumbai,Silver,Third,Individual,1991 cc,150@4000,327@2600,,4597.0,1788.0,1477.0,5.0,60.0
+Datsun,Redigo T(O) 1.0,425000,2020,7520,Petrol,Manual,Bangalore,Red,First,Individual,999 cc,67 bhp @ 5500 rpm,91 Nm @ 4250 rpm,FWD,3429.0,1560.0,1541.0,5.0,28.0
+Maruti Suzuki,S-Cross Zeta 1.6,800000,2017,52836,Diesel,Manual,Ahmedabad,Blue,First,Individual,1598 cc,118 bhp @ 3750 rpm,320 Nm @ 1750 rpm,FWD,4300.0,1765.0,1590.0,5.0,48.0
+Ford,Ecosport Titanium+ 1.5L TDCi,745000,2017,82000,Diesel,Manual,Jaipur,White,First,Individual,1498 cc,99 bhp @ 3750 rpm,205 Nm @ 1750 rpm,FWD,3999.0,1765.0,1708.0,5.0,52.0
+Hyundai,Tucson GL 2WD AT Petrol,1595000,2017,86000,Petrol,Automatic,Bangalore,Blue,First,Individual,1999 cc,153 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD,4475.0,1850.0,1660.0,5.0,62.0
+Hyundai,Grand i10 Magna U2 1.2 CRDi,335000,2016,64000,Diesel,Manual,Bulandshahar,White,Second,Individual,1186 cc,74 bhp @ 4000 rpm,190 Nm @ 1750 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+Hyundai,Elite i20 Asta 1.4 (O) CRDi,560000,2016,80000,Diesel,Manual,Ambala Cantt,White,Second,Individual,1396 cc,89 bhp @ 4000 rpm,220 Nm @ 1500 rpm,FWD,3985.0,1734.0,1505.0,5.0,40.0
+Honda,City V,875000,2018,28000,Petrol,Manual,Delhi,Silver,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Mahindra,XUV500 W8 1.99 [2016-2017],690000,2015,157662,Diesel,Manual,Jaipur,Silver,Second,Individual,1997 cc,138 bhp @ 3750 rpm,320 Nm @ 1600 rpm,FWD,4585.0,1890.0,1785.0,7.0,70.0
+Mahindra,Thar LX 4-STR Hard Top Diesel AT,1950000,2022,4500,Diesel,Automatic,Ludhiana,Black,First,Individual,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD,3985.0,1820.0,1844.0,4.0,57.0
+Mahindra,Thar LX 4-STR Hard Top Diesel AT,1825000,2022,11000,Diesel,Automatic,Mumbai,Black,First,Individual,2184 cc,130 bhp @ 3750 rpm,300 Nm @ 1600 rpm,AWD,3985.0,1820.0,1844.0,4.0,57.0
+Maruti Suzuki,Wagon R LXI CNG (O),325000,2014,58000,CNG,Manual,Delhi,Red,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+Audi,Q3 35 TDI Technology with Navigation,1839000,2017,110000,Diesel,Automatic,Mumbai,Blue,First,Individual,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD,4385.0,1831.0,1608.0,5.0,64.0
+Mahindra,Thar LX 4-STR Hard Top Petrol AT,1650000,2022,10000,Petrol,Automatic,Jalandhar,Black,First,Individual,1997 cc,150 bhp @ 5000 rpm,320 Nm @ 1500 rpm,AWD,3985.0,1820.0,1844.0,4.0,57.0
+Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],569000,2018,57847,Petrol,Manual,Bangalore,Grey,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+Mahindra,Scorpio S10,775000,2014,125000,Diesel,Manual,Lucknow,White,First,Individual,2179 cc,120 bhp @ 4000 rpm,280 Nm @ 1800 rpm,RWD,4456.0,1820.0,1995.0,8.0,60.0
+Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],650000,2020,37003,Petrol,Manual,Bangalore,Grey,First,Individual,1197 cc,81 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3765.0,1660.0,1520.0,5.0,43.0
+Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,Individual,1197 cc,83 bhp @ 6000 rpm,113.796 Nm @ 4000 rpm,FWD,3995.0,1710.0,1505.0,5.0,45.0
+BMW,3-Series 330i M Sport Edition,5100000,2022,6000,Petrol,Automatic,Raipur,White,First,Individual,1998 cc,248 bhp @ 5200 rpm,350 Nm @ 1450 rpm,RWD,4633.0,1811.0,1429.0,5.0,57.0
+Hyundai,i10 Sportz 1.2 AT Kappa2,335000,2013,78301,Petrol,Automatic,Pune,Grey,Second,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585.0,1595.0,1550.0,5.0,35.0
+Volkswagen,Polo Comfortline 1.2L (P),240000,2010,78000,Petrol,Manual,Ludhiana,White,Second,Individual,,,,,,,,,
+MG,Hector Sharp 2.0 Diesel [2019-2020],1725000,2019,23952,Diesel,Manual,Bangalore,Red,First,Individual,1956 cc,169 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD,4655.0,1835.0,1760.0,5.0,60.0
+Toyota,Fortuner 2.8 4x4 AT [2016-2020],2750000,2017,219000,Diesel,Automatic,Jaipur,White,Second,Individual,2755 cc,174 bhp @ 3400 rpm,450 Nm @ 1600 rpm,AWD,4795.0,1855.0,1835.0,7.0,80.0
+Toyota,Innova 2.7 VX 7 STR [2016-2020],1964999,2020,26000,Petrol,Manual,Delhi,Silver,First,Individual,2694 cc,164 bhp @ 5200 rpm,245 Nm @ 4000 rpm,RWD,4735.0,1830.0,1795.0,7.0,65.0
+Maruti Suzuki,Swift ZXi,465000,2014,25704,Petrol,Manual,Mumbai,Red,First,Individual,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+BMW,X3 xDrive 20d Luxury Line [2018-2020],5975000,2021,18000,Diesel,Automatic,Delhi,White,First,Individual,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD,4657.0,1881.0,1678.0,5.0,67.0
+Hyundai,Xcent SX 1.1 CRDi,525000,2018,78900,Diesel,Manual,Vadodara,Silver,First,Individual,1120 cc,71 bhp @ 4000 rpm,160 Nm @ 1500 rpm,FWD,3995.0,1660.0,1520.0,5.0,43.0
+BMW,5-Series 530d M Sport [2013-2017],5250000,2018,21000,Diesel,Automatic,Chennai,Blue,First,Individual,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,RWD,4899.0,2094.0,1464.0,5.0,65.0
+Datsun,Go D,240000,2017,42000,Petrol,Manual,Lucknow,White,First,Individual,1198 cc,67 bhp @ 5000 rpm,104 Nm @ 4000 rpm,FWD,3785.0,1635.0,1485.0,5.0,35.0
+BMW,X5 xDrive30d Pure Experience (5 Seater),2950000,2015,84700,Diesel,Automatic,Pune,Black,Second,Individual,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD,4886.0,1938.0,1762.0,5.0,
+Toyota,Innova 2.4 VX 8 STR [2016-2020],2250000,2019,28000,Diesel,Manual,Pune,Maroon,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,8.0,55.0
+Tata,Harrier XZ [2019-2020],1695000,2019,20856,Diesel,Manual,Bangalore,Orange,First,Individual,1956 cc,138 bhp @ 3750 rpm,350 Nm @ 1750 rpm,FWD,4598.0,1894.0,1706.0,5.0,50.0
+Jeep,Compass Longitude (O) 1.4 Petrol AT [2019-2020],1750000,2019,57000,Petrol,Automatic,Hyderabad,Silver,First,Individual,1368 cc,160 bhp @ 5500 rpm,250 Nm @ 2500 rpm,FWD,4395.0,1818.0,1640.0,5.0,60.0
+Mercedes-Benz,E-Class E 220d Expression [2019-2019],4500000,2019,72000,Diesel,Automatic,Pune,White,First,Individual,1950 cc,192 bhp @ 3800 rpm,400 Nm @ 1600 rpm,RWD,5063.0,1860.0,1494.0,5.0,80.0
+Audi,A3 35 TDI Premium + Sunroof,2900000,2019,15530,Diesel,Automatic,Goa,White,First,Individual,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD,4456.0,1796.0,1416.0,5.0,50.0
+Hyundai,Elantra 2.0 SX (O) AT,1465000,2019,22000,Petrol,Automatic,Mumbai,Silver,Second,Individual,1999 cc,150 bhp @ 6200 rpm,192 Nm @ 4000 rpm,FWD,4570.0,1800.0,1465.0,5.0,50.0
+Hyundai,i10 Magna 1.2 Kappa2,325000,2013,15780,Petrol,Manual,Thane,Red,First,Individual,1197 cc,79 bhp @ 6000 rpm,112.7619 Nm @ 4000 rpm,FWD,3585.0,1595.0,1550.0,5.0,35.0
+Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3610.0,1680.0,1500.0,5.0,35.0
+Honda,WR-V VX MT Petrol,900000,2019,17000,Petrol,Manual,Ahmedabad,White,First,Individual,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD,3999.0,1734.0,1601.0,5.0,40.0
+Toyota,Innova 2.8 ZX AT 7 STR [2016-2020],2150000,2017,45000,Diesel,Automatic,Mumbai,Grey,First,Individual,2755 cc,172 bhp @ 3400 rpm,360 Nm @ 1200 rpm,RWD,4735.0,1830.0,1795.0,7.0,55.0
+Hyundai,Elite i20 Asta 1.2 AT,750000,2018,33647,Petrol,Automatic,Mumbai,Red,First,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985.0,1734.0,1505.0,5.0,40.0
+Toyota,Innova 2.4 ZX 7 STR [2016-2020],2190000,2017,30000,Diesel,Manual,Chennai,Maroon,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,7.0,55.0
+Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,Individual,1497 cc,116 bhp @ 6600 rpm,146 Nm @ 4800 rpm,FWD,4440.0,1695.0,1485.0,5.0,42.0
+Honda,Amaze 1.2 VX AT i-VTEC,465000,2014,29442,Petrol,Automatic,Mumbai,Silver,First,Individual,1198 cc,87 bhp @ 6000 rpm,109 Nm @ 4500 rpm,FWD,3990.0,1680.0,1505.0,5.0,35.0
+Honda,Jazz V Petrol,500000,2016,54440,Petrol,Manual,Mumbai,Silver,First,Individual,1199 cc,89 bhp @ 6000 rpm,110 Nm @ 4800 rpm,FWD,3955.0,1694.0,1544.0,5.0,40.0
+Honda,BR-V V CVT Petrol,745000,2018,54000,Petrol,Automatic,Kolkata,Silver,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4453.0,1735.0,1666.0,7.0,42.0
+Maruti Suzuki,Celerio VXi AMT,395000,2014,47884,Petrol,Automatic,Pune,Red,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3600.0,1600.0,1560.0,5.0,35.0
+Honda,City V,1060000,2019,12382,Petrol,Manual,Pune,Maroon,First,Corporate,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Mahindra,Xylo D2 BS-IV,210000,2012,85000,Diesel,Manual,Kanpur,White,Fourth,Individual,2489 cc,95@3600,220@1400,,4520.0,1850.0,1895.0,7.0,55.0
+Maruti Suzuki,Ertiga Vxi CNG,642000,2014,53693,CNG,Manual,Mumbai,Others,First,Individual,1373 cc,82 bhp @ 6000 rpm,110 Nm @ 4000 rpm,FWD,4265.0,1695.0,1685.0,7.0,60.0
+Hyundai,Verna SX Plus 1.6 CRDi AT,1085000,2018,45915,Diesel,Automatic,Mumbai,Black,First,Individual,1582 cc,126 bhp @ 4000 rpm,260 Nm @ 1500 rpm,FWD,4440.0,1729.0,1475.0,5.0,45.0
+Toyota,Fortuner 3.0 MT,825000,2010,114000,Diesel,Manual,Lucknow,Black,Second,Individual,2982 cc,171@3600,343@1400,AWD,4695.0,1840.0,1850.0,7.0,80.0
+Maruti Suzuki,Alto VXi (O),400000,2019,22000,Petrol,Manual,Ludhiana,White,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3545.0,1490.0,1475.0,5.0,35.0
+Skoda,Rapid Style 1.6 MPI AT,1099000,2018,20690,Petrol,Automatic,Bangalore,Red,First,Individual,1598 cc,104 bhp @ 5200 rpm,153 Nm @ 3750 rpm,FWD,4413.0,1699.0,1466.0,5.0,55.0
+Hyundai,Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],1750000,2022,23000,Petrol,Automatic,Delhi,White,First,Individual,1353 cc,138 bhp @ 6000 rpm,242 Nm @ 1500 rpm,FWD,4300.0,1790.0,1635.0,5.0,50.0
+Maruti Suzuki,Alto 800 Lxi CNG,249000,2014,56843,CNG + CNG,Manual,Navi Mumbai,White,Second,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+Mercedes-Benz,GLE 350 d,5900000,2018,28000,Diesel,Automatic,Delhi,White,First,Individual,2987 cc,255 bhp @ 3400 rpm,620 Nm @ 1600 rpm,AWD,4819.0,2141.0,1796.0,5.0,93.0
+Hyundai,Elite i20 Asta 1.2 (O) [2016],725000,2017,36597,Petrol,Manual,Hyderabad,Red,Second,Individual,1197 cc,82 bhp @ 6000 rpm,115 Nm @ 4000 rpm,FWD,3985.0,1734.0,1505.0,5.0,45.0
+Mercedes-Benz,E-Class 200,7050000,2022,1102,Petrol,Manual,Bangalore,Black,UnRegistered Car,Individual,,,,,,,,,
+Toyota,Fortuner 3.0 4x2 AT,1600000,2015,145000,Diesel,Automatic,Mohali,Gold,Second,Individual,2982 cc,169 bhp @ 3600 rpm,360 Nm @ 1400 rpm,RWD,4705.0,1840.0,1850.0,7.0,80.0
+BMW,X1 sDrive20d xLine,3125000,2018,49000,Diesel,Automatic,Bangalore,Blue,First,Individual,1995 cc,184 bhp @ 4000 rpm,350 Nm @ 1750 rpm,RWD,4454.0,2044.0,1545.0,5.0,63.0
+BMW,X3 xDrive-20d xLine,4400000,2018,70000,Diesel,Automatic,Mumbai,White,First,Individual,1995 cc,190 bhp @ 4000 rpm,400 Nm @ 1750 rpm,AWD,4657.0,1881.0,1678.0,5.0,67.0
+Toyota,Innova 2.4 VX 7 STR [2016-2020],1989999,2018,55000,Diesel,Manual,Pune,Gold,First,Individual,2393 cc,148 bhp @ 3400 rpm,343 Nm @ 1400 rpm,RWD,4735.0,1830.0,1795.0,7.0,55.0
+Hyundai,Creta 1.6 SX,1044999,2016,78000,Diesel,Manual,Bangalore,Black,First,Individual,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Audi,Q3 35 TDI Premium + Sunroof,2375000,2017,61643,Diesel,Automatic,Dehradun,Blue,First,Individual,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD,4385.0,1831.0,1608.0,5.0,64.0
+Mercedes-Benz,GLC 220 d Progressive,3850000,2017,45600,Diesel,Automatic,Mumbai,Black,Second,Individual,2143 cc,168 bhp @ 3000 rpm,400 Nm @ 1400 rpm,AWD,4656.0,1890.0,1639.0,5.0,66.0
+Maruti Suzuki,Swift VDi,500000,2017,140000,Diesel,Manual,Warangal,Grey,First,Individual,1248 cc,74 bhp @ 4000 rpm,190 Nm @ 2000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Maruti Suzuki,Ciaz Delta Hybrid 1.5 AT [2018-2020],850000,2019,32000,Petrol,Automatic,Pune,Grey,First,Individual,1462 cc,103 bhp @ 6000 rpm,138 Nm @ 4400 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Honda,City S Petrol,695000,2017,51292,Petrol,Manual,Thane,White,First,Individual,1497 cc,117 bhp @ 6600 rpm,145 Nm @ 4600 rpm,FWD,4440.0,1695.0,1495.0,5.0,40.0
+Audi,Q3 35 TDI Premium + Sunroof,1650000,2016,139000,Diesel,Automatic,Jaipur,White,Second,Individual,1968 cc,174 bhp @ 4200 rpm,380 Nm @ 1750 rpm,AWD,4385.0,1831.0,1608.0,5.0,64.0
+Maruti Suzuki,Celerio X Vxi AMT [2017-2019],434000,2017,50000,Petrol,Automatic,Dehradun,White,First,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3715.0,1635.0,1565.0,5.0,35.0
+Maruti Suzuki,Wagon R LXI CNG (O),310000,2014,82000,CNG,Manual,Lucknow,White,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+Maruti Suzuki,Wagon R LXI CNG,375000,2015,64000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+Mahindra,XUV500 W10 AT 1.99,955000,2016,110000,Diesel,Automatic,Ahmedabad,Black,First,Individual,1997 cc,138 bhp @ 3750 rpm,320 Nm @ 1600 rpm,FWD,4585.0,1890.0,1785.0,7.0,70.0
+Skoda,Kodiaq Style 2.0 TDI 4x4 AT,3200000,2018,35000,Diesel,Automatic,Pune,White,First,Individual,,,,,4697.0,1882.0,1665.0,7.0,63.0
+Hyundai,Creta SX 1.6 AT Petrol,1295000,2018,30000,Petrol,Automatic,Delhi,Black,First,Individual,1591 cc,122 bhp @ 6400 rpm,151 Nm @ 4850 rpm,FWD,4270.0,1780.0,1665.0,5.0,55.0
+Maruti Suzuki,Swift VXi,409999,2014,20000,Petrol,Manual,Mumbai,Grey,Second,Individual,1197 cc,85 bhp @ 6000 rpm,114 Nm @ 4000 rpm,FWD,3850.0,1695.0,1530.0,5.0,42.0
+Audi,A4 2.0 TDI Technology,1150000,2013,30000,Diesel,Automatic,Delhi,Silver,Second,Individual,,,,,,,,,
+Kia,Seltos HTK Plus AT 1.5 Diesel [2020-2021],1275000,2021,30000,Diesel,Automatic,Mohali,White,First,Individual,1493 cc,113 bhp @ 4000 rpm,250 Nm @ 1500 rpm,FWD,4315.0,1800.0,1645.0,5.0,50.0
+Toyota,Etios 1.2 G,434999,2015,32545,Petrol,Manual,Kolkata,Silver,First,Individual,1197 cc,79 bhp @ 5600 rpm,104 Nm @ 3100 rpm,FWD,3895.0,1735.0,1555.0,5.0,45.0
+Hyundai,Eon 1.0 Kappa Magna + [2014-2016],240000,2013,64000,Petrol,Manual,Faizabad,White,First,Individual,998 cc,68 bhp @ 6200 rpm,94 Nm @ 3500 rpm,FWD,3515.0,1500.0,1510.0,5.0,32.0
+Jaguar,XE Prestige Diesel,2850000,2018,45000,Diesel,Automatic,Dehradun,White,First,Individual,1999 cc,177 bhp @ 4000 rpm,430 Nm @ 1750 rpm,RWD,4795.0,1967.0,1416.0,5.0,56.0
+Honda,Amaze 1.5 VX i-DTEC,515000,2015,63587,Diesel,Manual,Mumbai,Brown,First,Individual,1498 cc,99 bhp @ 3600 rpm,200 Nm @ 1750 rpm,FWD,3990.0,1680.0,1505.0,5.0,35.0
+BMW,5-Series 520d Sedan,1400000,2013,121000,Diesel,Automatic,Kanpur,Blue,First,Individual,1995 cc,184 bhp @ 4000 rpm,380 Nm @ 1750 rpm,RWD,4899.0,2094.0,1464.0,5.0,
+BMW,X5 xDrive 30d,3550000,2015,59000,Diesel,Automatic,Chandigarh,Bronze,First,Individual,2993 cc,258 bhp @ 4000 rpm,560 Nm @ 1500 rpm,AWD,4886.0,1938.0,1762.0,7.0,
+Toyota,Fortuner 3.0 4x4 MT,1199000,2012,12749,Diesel,Manual,Kolkata,Grey,First,Individual,2982 cc,169 bhp @ 3600 rpm,343 Nm @ 1400 rpm,AWD,4705.0,1840.0,1850.0,7.0,80.0
+Hyundai,Creta 1.6 SX Plus AT Petrol,1299000,2018,50000,Petrol,Automatic,Mumbai,White,First,Individual,1591 cc,122 bhp @ 6400 rpm,154 Nm @ 4850 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Maruti Suzuki,Celerio X Zxi AMT [2017-2019],500000,2017,32000,Petrol,Automatic,Chennai,Orange,Second,Individual,998 cc,67 bhp @ 6000 rpm,90 Nm @ 3500 rpm,FWD,3715.0,1635.0,1565.0,5.0,35.0
+Hyundai,Creta 1.6 SX (O),1750000,2021,17000,Diesel,Manual,Kanpur,Black,First,Individual,1582 cc,126 bhp @ 4000 rpm,265 Nm @ 1900 rpm,FWD,4270.0,1780.0,1630.0,5.0,60.0
+Audi,A3 35 TDI Technology + Sunroof,2250000,2016,40500,Diesel,Automatic,Goa,White,First,Individual,1968 cc,141 bhp @ 3500 rpm,320 Nm @ 1750 rpm,FWD,4456.0,1796.0,1416.0,5.0,50.0
+Maruti Suzuki,Ciaz Zeta 1.4 AT,785000,2017,20000,Petrol,Automatic,Mumbai,Blue,First,Individual,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Maruti Suzuki,Ciaz ZXI+,570000,2015,60798,Petrol,Manual,Mumbai,White,First,Individual,1373 cc,91 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4490.0,1730.0,1485.0,5.0,43.0
+Maruti Suzuki,Wagon R LXI CNG (O),299000,2015,92000,CNG,Manual,Mumbai,Brown,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
