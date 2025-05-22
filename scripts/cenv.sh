@@ -1,16 +1,16 @@
 #!/bin/bash
 
 
-echo "scripts/cenv.sh: Executing ..."
+echo "[scripts/cenv.sh]     Executing ..."
 
 
 # Check if Python is installed
-echo "Checking for Python installation ..."
+echo "[scripts/cenv.sh]     Checking for Python installation ..."
 python --version
 
-echo "Check if pip is installed ..."
+echo "[scripts/cenv.sh]     Check if pip is installed ..."
 pip --version
 
-echo "Downloading libraries ..."
+echo "[scripts/cenv.sh]     Downloading libraries ..."
 pip install -r requirements.txt 
 
